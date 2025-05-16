@@ -1,0 +1,6 @@
+math
+time
+matplotlib.ticker
+os
+matplotlib.pyplot
+tkinter
